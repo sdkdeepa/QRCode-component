@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution: https://github.com/sdkdeepa/QRCode-component
-- Live website : https://qrcode.netlify.app
+- Live website : https://sdkdeepa.github.io/QRCode-component
 
 ## My process
 First built semmatic HTML and then figured our the styling. Added accessibility at the end.
